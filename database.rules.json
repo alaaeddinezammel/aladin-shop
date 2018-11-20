@@ -1,0 +1,32 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+       "users":{
+        ".read":true,
+          ".write":true
+          },
+      
+      "categories":{
+        ".read":true
+      },
+         "products":{
+        ".read":true
+      },
+         "shopping-carts":{
+        ".read":true,
+          ".write":true
+      },
+         "orders":{
+        ".read":true,
+          ".write":true,
+              ".indexOn": "userId"
+      }
+         
+        
+       
+          
+      
+  }
+    
+}
