@@ -11,5 +11,15 @@ run npm install && ng serve  :)
 
 to manage orders and products u need permission, so mail me i will authorize u ;) @* alaaeddine.zammel@esprit.tn 
 
-some pics: 
+some pics: or live demo:https://aladin-shop-5b628.firebaseapp.com/
+
+
 ![alt text](https://raw.githubusercontent.com/alaaeddinezammel/aladin-shop/master/cap2.PNG)
+
+![alt text](https://raw.githubusercontent.com/alaaeddinezammel/aladin-shop/master/cap1.PNG)
+
+![alt text](https://raw.githubusercontent.com/alaaeddinezammel/aladin-shop/master/cap3.PNG)
+
+![alt text](https://raw.githubusercontent.com/alaaeddinezammel/aladin-shop/master/cap4.PNG)
+
+
